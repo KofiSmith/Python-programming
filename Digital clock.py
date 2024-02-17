@@ -10,7 +10,7 @@ root.title('Clock')
 #this function is used to display time on the label
 def time():
   string = strftime('%H:%M:%S %p')
-  lbl.config(text = time)
+  lbl.config(text = string)
   lbl.after(1000, time)
 
 #styling the label widget so that clock will look more attractive
