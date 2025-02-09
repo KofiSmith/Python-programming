@@ -7,8 +7,6 @@ MIN_BET = 1
 ROWS = 3
 COLS = 3
 
-
-
 symbol_count ={
 	"A" : 2,
 	"B" : 4,
@@ -22,8 +20,6 @@ symbol_value = {
 	"C" : 3,
 	"D" : 2
 }
-
-
 
 
 def check_winnings(columns, lines, bet, values):
@@ -62,9 +58,6 @@ def get_slot_machine_spin(rows, cols, symbols):
     return columns
 
 
-
-
-
 def print_slot_machine(columns):
     for row in range(len(columns[0])):
         for i, column in enumerate(columns):
@@ -74,7 +67,6 @@ def print_slot_machine(columns):
                 print(column[row], end="")
             
         print()
-
 
 
 def deposit():
@@ -91,9 +83,7 @@ def deposit():
     return amount
 
 
-  
-  
-    
+     
 def get_number_of_lines():
     while True:
         lines = input("Enter number of lines to bet on, (1-" + str(MAX_LINES) + "): ")
