@@ -1,0 +1,13 @@
+Brand,Units Sold,Year of Manufacture,Is New
+Tesla,140,2020,False
+Tesla,80,2021, True
+Benz,151,2019,False
+Corolla,200,2020, True
+Benz,100,2024,False
+Benz,95,2022,True
+Corolla,161,2024,False
+Ford,100,2025,True
+Tesla,50,2021,False
+Ford,83,2024,False
+Corolla,112,2019,True
+Ford,120,2023,False
