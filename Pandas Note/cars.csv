@@ -8,13 +8,27 @@ Benz,95,2022,True
 Corolla,161,2024,False
 Ford,100,2025,True
 Tesla,50,2021,False
+Nissan,124,2021,False
+Nissan,109,2022,True
+BMW,89,2021,False
 Ford,83,2024,False
 Corolla,112,2019,True
 Ford,120,2023,False
 Tesla,90,2025,True
 Benz,130,2025,False
+BMW,111,2024,True
+BMW,63,2025,False
+Nissan,73,2023,True
+Nissan,128,2024,False
+Nissan,93,2025,True
+BMW,74,2019,True
+BMW,100,2020,False
 Benze,75,2020,True
 Corolla,100,2023,False
 Corolla,121,2025,True
 Ford,112,2024,True
 Tesla,115,2025,False
+Nissan,100, 2019, True
+Nissan,85,2020,False
+BMW,130,2022,True
+BMW,122,2023,False
