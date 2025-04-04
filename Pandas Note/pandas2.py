@@ -1,6 +1,6 @@
 import pandas as pd
 
-#Loading Data from Files
+#Loading Data from CSV File
 cars = pd.read_csv('cars.csv')
 print(cars.head())
 print("")
